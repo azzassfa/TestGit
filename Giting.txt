@@ -1,3 +1,7 @@
 this is a test
 
 and it works
+
+the test continues
+
+checking staged change

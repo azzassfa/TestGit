@@ -5,3 +5,5 @@ and it works
 the test continues
 
 checking staged change
+
+Foolish comment 
